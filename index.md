@@ -1,3 +1,6 @@
+# Kisi Kisi
+download [disini](https://github.com/itnsaid/lksn2019/blob/master/Deskripsi%20Teknis%20LKS%20SMK%202019%20-%20IT%20Network%20Systems%20Adminstration.pdf)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/itnsaid/itnsaid.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
