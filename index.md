@@ -1,3 +1,5 @@
 # Welcome to portal ITNSA.id
-## Kisi Kisi
+## Kisi Kisi LKS Tingkat Nasional 2019
+## IT Network Systems Administration
+Yogyakarta, 7-13 Juli 2019
 download [disini](https://github.com/itnsaid/lksn2019/blob/master/Deskripsi%20Teknis%20LKS%20SMK%202019%20-%20IT%20Network%20Systems%20Adminstration.pdf)
