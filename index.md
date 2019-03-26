@@ -7,5 +7,5 @@ download [disini](https://github.com/itnsaid/lksn2019/blob/master/Deskripsi%20Te
 
 ==================================================
 ## Material Test Project (MTP) / Soal WorldSkills
-#### MTP WSC2017 Abu Dhabi | download [disini](https://github.com/itnsaid/MTP/tree/master/WSC%202017%20Abu%20Dhabi)
-#### MTP WSC2015 São Paulo | download [disini](https://github.com/itnsaid/MTP/tree/master/WSC%202015%20Saopaulo)
+MTP WSC2017 Abu Dhabi | download [disini](https://github.com/itnsaid/MTP/tree/master/WSC%202017%20Abu%20Dhabi)
+MTP WSC2015 São Paulo | download [disini](https://github.com/itnsaid/MTP/tree/master/WSC%202015%20Saopaulo)
