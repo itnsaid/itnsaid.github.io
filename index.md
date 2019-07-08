@@ -3,7 +3,7 @@
 ## Pre Test Project LKS Tingkat Nasional 2019
 ### IT Network Systems Administration
 [Updated] Yogyakarta, 8 Juli 2019
-download [disini](https://)
+[LKSN2019_Pre-ModuleA](https://github.com/itnsaid/lksn2019/blob/master/LKSN2019_ITNETWORK_MODUL_A_PRE.pdf)
 
 ==================================================
 ## Kisi Kisi LKS Tingkat Nasional 2019
