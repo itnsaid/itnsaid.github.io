@@ -1,5 +1,11 @@
 # Welcome to portal ITNSA.id
 ==================================================
+## Pre Test Project LKS Tingkat Nasional 2019
+### IT Network Systems Administration
+[Updated] Yogyakarta, 8 Juli 2019
+download [disini](https://)
+
+==================================================
 ## Kisi Kisi LKS Tingkat Nasional 2019
 ### IT Network Systems Administration
 Yogyakarta, 7-13 Juli 2019
