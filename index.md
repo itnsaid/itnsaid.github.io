@@ -9,7 +9,7 @@
 - [LKSN2019_Pre-ModuleD](https://github.com/itnsaid/lksn2019/blob/master/LKSN2019_ITNETWORK_MODUL_D_PRE.pdf)
 
 ==================================================
-## Kisi Kisi LKS Tingkat Nasional 2019
+## Kisi-kisi LKS Tingkat Nasional 2019
 ### IT Network Systems Administration
 Yogyakarta, 7-13 Juli 2019
 download [di sini](https://github.com/itnsaid/lksn2019/blob/master/Deskripsi%20Teknis%20LKS%20SMK%202019%20-%20IT%20Network%20Systems%20Adminstration.pdf)
