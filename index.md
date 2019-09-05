@@ -5,6 +5,7 @@
 Jakarta, 23 Agustus 2019. 
 - [Test Project Seleknas](https://github.com/itnsaid/seleknas2019.git)
 
+=========================================================
 ## LKS Tingkat Nasional 2019
 [Updated] Yogyakarta, 12 Juli 2019
 - [LKSN2019_Pre-ModuleA](https://github.com/itnsaid/lksn2019/blob/master/LKSN2019_ITNETWORK_MODUL_A_PRE.pdf)
