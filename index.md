@@ -1,7 +1,6 @@
 # Welcome to portal ITNSA.id
 =========================================================
-## Seleksi Nasional Calon Competitor
-## Asean Skills Competition 2020 Singapore
+## Seleksi Nasional Calon Competitor Asean Skills Competition 2020 Singapore
 Jakarta, 23 Agustus 2019. 
 - [Test Project Seleknas](https://github.com/itnsaid/seleknas2019.git)
 
