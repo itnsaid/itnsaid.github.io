@@ -1,10 +1,10 @@
 # Welcome to portal ITNSA.id
 =========================================================
 ## TEST PROJECT LKS Tingkat Nasional 2021
-- [LKSN2020_Actual-ModuleA-Day1](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20A%20-%20INTEGRATION%20SYSTEMS%20DAY%201%20-%20ITNSA%20-%20LKSN%202021.pdf)
-- [LKSN2020_Actual-ModuleA-Day2](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20A%20-%20INTEGRATION%20SYSTEMS%20DAY%202%20-%20ITNSA%20-%20LKSN%202021.pdf)
-- [LKSN2020_Actual-ModuleB](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20B%20-%20NETWORK%20SYSTEMS%20-%20ITNSA%20-%20LKSN%202021.pdf)
-- [LKSN2020_Actual-ModuleC](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20C%20-%20NETDEVOPS%20-%20ITNSA%20-%20LKSN%202021.pdf)
+- [LKSN2021_Actual-ModuleA-Day1](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20A%20-%20INTEGRATION%20SYSTEMS%20DAY%201%20-%20ITNSA%20-%20LKSN%202021.pdf)
+- [LKSN2021_Actual-ModuleA-Day2](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20A%20-%20INTEGRATION%20SYSTEMS%20DAY%202%20-%20ITNSA%20-%20LKSN%202021.pdf)
+- [LKSN2021_Actual-ModuleB](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20B%20-%20NETWORK%20SYSTEMS%20-%20ITNSA%20-%20LKSN%202021.pdf)
+- [LKSN2021_Actual-ModuleC](https://github.com/itnsaid/lksn2021/blob/main/LKSN2021_MTP_Actual/MODUL%20C%20-%20NETDEVOPS%20-%20ITNSA%20-%20LKSN%202021.pdf)
 
 =========================================================
 
