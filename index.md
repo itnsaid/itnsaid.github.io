@@ -1,5 +1,14 @@
 # Welcome to portal ITNSA.id
 =========================================================
+## TEST PROJECT WSC2022 Special Edition
+- [WSC2022SE_TP39_MA_actual_en](https://github.com/itnsaid/TPWSC/blob/main/WSC2022SE_TP39_MA_actual_en.pdf)
+- [WSC2022SE_TP39_MB_actual_en](https://github.com/itnsaid/TPWSC/blob/main/WSC2022SE_TP39_MB_actual_en.pdf)
+- [WSC2022SE_TP39_MC_actual_en](https://github.com/itnsaid/TPWSC/blob/main/WSC2022SE_TP39_MC_actual_en.pdf)
+
+
+=========================================================
+
+
 ## TEST PROJECT LKS Tingkat Nasional 2022
 - [LKSN2022-ModuleA-ClientServer](https://github.com/itnsaid/lksn2022/blob/main/LKSN2022_MTP_Actual/LKSN%202022%20-%20Module%20A%20-%20Client%20Server.pdf)
 - [LKSN2022-ModuleB-NetworkSystems](https://github.com/itnsaid/lksn2022/blob/main/LKSN2022_MTP_Actual/LKSN%202022%20-%20Module%20B%20-%20Network%20Systems.pdf)
