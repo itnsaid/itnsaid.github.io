@@ -1,5 +1,15 @@
 # Welcome to portal ITNSA.id
 =========================================================
+## TEST PROJECT LKS Tingkat Provinsi 2024
+- [LKSN2022-ModuleA-Network Systems - Cisco Packet Tracer](https://drive.google.com/file/d/1b4ydJptQ--Wc5NOmKMUkmFpw1_b93HWM/view?usp=sharing)
+- [LKSN2022-ModuleB-Infrastructure Programmable & Automation](https://drive.google.com/file/d/1bCqw2xult0sMvwL3AOrZcXKhO-diJhp0/view?usp=sharing)
+- [LKSN2022-ModuleC-Client Server Environment](https://drive.google.com/file/d/1bMVdlnaAGUgMwdvyroa9jFwWaldQ8FBG/view?usp=sharing)
+- [LKSN2022-ModuleD-Network Troubleshooting-Packet Tracer](https://drive.google.com/file/d/1bWCTrrMLEQFKg73xlj4cSdteBTslQ1ve/view?usp=sharing)
+
+
+=========================================================
+
+
 ## TEST PROJECT LKS Tingkat Nasional 2023
 - [LKSN2022-ModuleA-ClientServer](https://github.com/itnsaid/lksn2023/blob/main/LKSN2023_ITNSA_MA_actual_en.pdf)
 - [LKSN2022-ModuleB-Infrastructure Programmability & Automation](https://github.com/itnsaid/lksn2023/blob/main/LKSN2023_ITNSA_MB_actual_en.pdf)
